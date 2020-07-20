@@ -1,3 +1,5 @@
+# le corps du code ne doit pas être touché
+# par contre, vous devez comprendre le rôle et écrire les différentes fonctions utilisées 
 nim = initialise()
 affiche(nim)
 while sum(nim) != 0 :
